@@ -5,4 +5,4 @@ image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-This is my first post, how exciting!
+Modified first post to add [link](http://www.wikihow.com/Code-a-Video-Game)
