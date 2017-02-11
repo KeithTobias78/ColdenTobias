@@ -4,12 +4,12 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://KeithTobias78.github.io"
-baseurl: ""
+#url: "http://KeithTobias78.github.io"
+#baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://KeithTobias78.github.io/ColdenTobias"
-#baseurl: "/ColdenTobias"
+url: "http://KeithTobias78.github.io/ColdenTobias"
+baseurl: "/ColdenTobias"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -37,7 +37,7 @@ avatar: "img/hello_world.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/avatar-icon.png"
 
 # --- Footer options --- #
 
